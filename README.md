@@ -1,6 +1,6 @@
 # Power-BI-Projects
 
-# Savory Sales
+### Savory Sales
 
 ## 🌟 Excited to Share My Savory Sales Power BI Project! 🌟
 
